@@ -1,0 +1,12 @@
+{
+  "title": "U1: View artwork gallery as visitor",
+  "spec_type": "Story",
+  "objective": "Browse the artwork portfolio in an attractive, easy-to-navigate layout | Visitors can appreciate artwork quality, learn about each piece, and decide whether to make a purchase inquiry",
+  "owner": "Friend/Viewer",
+  "priority": "Medium",
+  "user_stories": [],
+  "requirements": [],
+  "acceptance_criteria": [],
+  "ux_flows": [],
+  "api_contracts": []
+}
